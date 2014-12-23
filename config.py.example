@@ -1,0 +1,11 @@
+# Config for LegsBot
+ircServer = "your.irc.server"
+ircPort = 6667
+
+nickname = "legsbot"
+realname = "legsbot"
+username = "legsbot"
+channels = ["#your","#channels"]
+
+replyAll = False			# Do you want the bot to reply to anyone (True) or just those in the list (False)
+replyTo = ["\o",]			# List of nicknames to reply to
